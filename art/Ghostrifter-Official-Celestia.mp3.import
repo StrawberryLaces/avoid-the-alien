@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Ghostrifter-Official-Celestia.mp3-fffa9e4ffe9b362f71ddf97d0ba6ae03.mp3str"
+
+[deps]
+
+source_file="res://art/Ghostrifter-Official-Celestia.mp3"
+dest_files=[ "res://.import/Ghostrifter-Official-Celestia.mp3-fffa9e4ffe9b362f71ddf97d0ba6ae03.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
